@@ -1,0 +1,105 @@
+
+bot ready 
+$help s0ck3t 841427751960838165
+bot ready 
+bot ready 
+$invite s0ck3t 841427751960838165
+bot ready
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+$logs s0ck3t 841427751960838165
+$logfile s0ck3t 841427751960838165
+bot ready 
+bot ready 
+$help s0ck3t 841427751960838165
+bot ready 
+bot ready 
+$help rubberduck 847137931986337823
+$randomip rubberduck 847137931986337823
+$pfp rubberduck 847137931986337823
+$beep rubberduck 847137931986337823
+$servers rubberduck 847137931986337823
+$cache rubberduck 847137931986337823
+$8ball rubberduck 847137931986337823
+$logs rubberduck 847137931986337823
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+$mineforeskin s0ck3t 841427751960838165
+bot ready 
+$mineforeskin s0ck3t 841427751960838165
+$mineforeskin s0ck3t 841427751960838165
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+$help s0ck3t 841427751960838165
+bot ready 
+bot ready 
+bot ready 
+$help s0ck3t 841427751960838165
+bot ready 
+$ipinfo 127.0.0.1 s0ck3t 841427751960838165
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+new server added netbot <member 'name' of 'Guild' objects> <property object at 0x000002227CC17C70> <property object at 0x000002227CC17BD0>
+new server added netbot <member 'name' of 'Guild' objects> <property object at 0x000002227CC17C70> <property object at 0x000002227CC17BD0>
+new server added netbot <member 'name' of 'Guild' objects> <property object at 0x000002227CC17C70> <property object at 0x000002227CC17BD0>
+$help s0ck3t 841427751960838165
+bot ready 
+bot ready 
+bot ready 
+$british _UnkowN 673528288882327578
+$british _UnkowN 673528288882327578
+$british _UnkowN 673528288882327578
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+bot ready 
+$help s0ck3t 841427751960838165
+bot ready 
+bot ready 
+$invite s0ck3t 841427751960838165new server added netbot <property object at 0x000002D05FFDE040> <property object at 0x000002D05FFD9F40>
+new server added netbot <property object at 0x000002D05FFDE040> <property object at 0x000002D05FFD9F40>
+new server added netbot <property object at 0x000002D05FFDE040> <property object at 0x000002D05FFD9F40>
+bot ready 
+$help s0ck3t 841427751960838165
+bot ready 
+bot ready 
+bot ready 
+$help s0ck3t 841427751960838165
+$help s0ck3t 841427751960838165
+bot ready 
+$help s0ck3t 841427751960838165
+$help s0ck3t 841427751960838165
+$info help s0ck3t 841427751960838165
+$info elp s0ck3t 841427751960838165
