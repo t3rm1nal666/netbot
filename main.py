@@ -275,4 +275,4 @@ async def on_message(message):
 
     if message.content.startswith("$support"):
         await message.channel.send("support at https://discord.gg/eWmXRhVhck")
-client.run("ODYzODU5NTA0MDgwMDkzMTk0.YOtB2w.ADWcyIWzIFKcoC9QFLgGck46F3Y")
+client.run("TOKEN")
